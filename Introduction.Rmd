@@ -1,0 +1,21 @@
+---
+title: "Introduction"
+author: "chihchengliang"
+date: "2015年08月19日"
+output:
+  html_document:
+    keep_md: yes
+---
+
+# Why this book
+
+
+# Who is this book for
+
+
+# What is statistics
+
+# What is R
+
+# What is simulation
+
